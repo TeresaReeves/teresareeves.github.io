@@ -22,16 +22,10 @@ html {
 {
 	margin: auto;
 	font-size: 20px;
-  margin: 0 0 16px 0;
-	padding: 0 0 16px 0;
+  	padding: 0 0 16px 0;
 	font-size: 42px;
 	font-weight: bold;
 	letter-spacing: -2px; 
-  margin: 0 0 16px 0;
-	padding: 0 0 16px 0;
-	font-size: 42px;
-	font-weight: bold;
-	letter-spacing: -2px;
 }
 
 .education {
